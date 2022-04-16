@@ -174,3 +174,9 @@ p {
     width: 60%;
     transform: rotate(0);
   }
+
+  .section-heading {line-height: 1em;}
+
+  .feature-title {font-size: 2.5rem;}
+
+  .dettagli {font-size: 1.5rem;}
